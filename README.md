@@ -1,4 +1,8 @@
 # Friday Night Funkin' - Psych Engine
+[![CodeFactor](https://www.codefactor.io/repository/github/xenkap/iceengine/badge/main)](https://www.codefactor.io/repository/github/xenkap/iceengine/overview/main)
+
+
+
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -94,3 +98,4 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+"# IceEngine" 
